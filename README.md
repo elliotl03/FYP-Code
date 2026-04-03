@@ -12,3 +12,5 @@ Relevant code used in final year project
 'PCA_test' includes all relevant PCA calculations and plots for PCA calculations used in the report
 
 'fulcher_bands' and '230WattsTvib' are useful plotting codes used in the results section of the report
+
+Most code scripts still contain original file paths used in the ananlysis
